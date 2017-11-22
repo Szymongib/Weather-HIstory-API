@@ -1,0 +1,16 @@
+﻿@model IEnumerable<WeatherDataEntry>
+
+
+@foreach (WeatherDataEntry item in Model)
+{
+    <h2><strong>Date:</strong> @item.MeasurementDate</h2>
+    <div><strong>City Name:</strong> @item.CityName</div>
+    <div><strong>Temperature:</strong> @item.Temperature</div>
+    <div><strong>Weather:</strong> @item.MainWeather</div>
+    <div><strong>Cloudiness:</strong> @item.Cloudiness</div>
+    <div><strong>Pressure: </strong> @item.Pressure</div>
+    <div><strong>Humidity: </strong> @item.Humidity</div>
+    <div><a asp-action="DeleteDataFromHistoryApi" asp-route-id="@item.Id">Delete</a></div>
+    <br />
+    <br />
+}

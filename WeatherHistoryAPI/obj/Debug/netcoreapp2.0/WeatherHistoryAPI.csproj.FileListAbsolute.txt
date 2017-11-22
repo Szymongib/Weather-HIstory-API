@@ -1,0 +1,13 @@
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\bin\Debug\netcoreapp2.0\WeatherHistoryAPI.deps.json
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\bin\Debug\netcoreapp2.0\WeatherHistoryAPI.runtimeconfig.json
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\bin\Debug\netcoreapp2.0\WeatherHistoryAPI.runtimeconfig.dev.json
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\bin\Debug\netcoreapp2.0\WeatherHistoryAPI.dll
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\obj\Debug\netcoreapp2.0\WeatherHistoryAPI.csprojResolveAssemblyReference.cache
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\obj\Debug\netcoreapp2.0\WeatherHistoryAPI.csproj.CoreCompileInputs.cache
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\obj\Debug\netcoreapp2.0\WeatherHistoryAPI.AssemblyInfoInputs.cache
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\obj\Debug\netcoreapp2.0\WeatherHistoryAPI.AssemblyInfo.cs
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\bin\Debug\netcoreapp2.0\WeatherHistoryAPI.pdb
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\obj\Debug\netcoreapp2.0\WeatherHistoryAPI.dll
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\obj\Debug\netcoreapp2.0\WeatherHistoryAPI.pdb
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\bin\Debug\netcoreapp2.0\ApplicationCore.dll
+C:\VS_Projects\WeatherHistoryAPI\WeatherHistoryAPI\bin\Debug\netcoreapp2.0\ApplicationCore.pdb

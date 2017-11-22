@@ -1,0 +1,13 @@
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\bin\Debug\netcoreapp2.0\ApplicationCore.dll
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\obj\Debug\netcoreapp2.0\ClientWebsite.csprojResolveAssemblyReference.cache
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\obj\Debug\netcoreapp2.0\ClientWebsite.csproj.CoreCompileInputs.cache
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\obj\Debug\netcoreapp2.0\ClientWebsite.AssemblyInfoInputs.cache
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\obj\Debug\netcoreapp2.0\ClientWebsite.AssemblyInfo.cs
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\bin\Debug\netcoreapp2.0\ClientWebsite.deps.json
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\bin\Debug\netcoreapp2.0\ClientWebsite.runtimeconfig.json
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\bin\Debug\netcoreapp2.0\ClientWebsite.runtimeconfig.dev.json
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\bin\Debug\netcoreapp2.0\ClientWebsite.dll
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\bin\Debug\netcoreapp2.0\ClientWebsite.pdb
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\bin\Debug\netcoreapp2.0\ApplicationCore.pdb
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\obj\Debug\netcoreapp2.0\ClientWebsite.dll
+C:\VS_Projects\WeatherHistoryAPI\ClientWebsite\obj\Debug\netcoreapp2.0\ClientWebsite.pdb
