@@ -21,3 +21,4 @@ public void ConfigureServices(IServiceCollection services)
             services.AddMvc();
         }
 ```
+And run command `Update-Database` in Package Manager Console.
